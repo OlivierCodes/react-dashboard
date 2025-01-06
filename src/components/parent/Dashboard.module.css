@@ -1,0 +1,31 @@
+/* styles Dashboard.css */
+
+.dashboard{
+    padding: 25px;
+    background-color: #414955;
+    border-radius: 5px;
+    width: 800px;
+}
+
+.widgetsContainer{
+    display: flex;
+    gap: 5px;
+}
+
+h1{
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #ffffff;
+}
+
+p.subtitle{
+    text-align: left;
+    font-family: 1rem;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+
